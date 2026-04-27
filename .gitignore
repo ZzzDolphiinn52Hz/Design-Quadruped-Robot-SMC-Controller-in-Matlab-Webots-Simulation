@@ -13,3 +13,6 @@ slprj/
 *_ert_rtw/
 *_grt_rtw/
 *_rtw/
+
+# Simulink Test temporary files
+*.tmp
