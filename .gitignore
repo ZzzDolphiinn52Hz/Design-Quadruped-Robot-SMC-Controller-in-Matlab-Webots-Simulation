@@ -1,0 +1,15 @@
+# Word documents
+*.docx
+
+# MATLAB / Simulink temporary & autosave files
+*.asv
+*.autosave
+*.slxc
+*.slx.r20*
+*.mdl.r20*
+*.m~ 
+*.mlx~
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
