@@ -16,3 +16,10 @@ slprj/
 
 # Simulink Test temporary files
 *.tmp
+
+# Word temporary files
+~$*.docx
+*.tmp
+
+# Office temporary files
+.releaseno
